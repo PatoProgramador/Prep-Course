@@ -1,0 +1,14 @@
+h1 { color :blueviolet}
+img { width: 400px}
+#thirdDiv { 
+    height: 600;
+    width: 500;
+    background-color: aqua;
+    padding: 50px;
+    border: 4mm ridge rgba(155, 9, 223, 0.685); ;
+}
+#spanId {
+    font-size: 18;
+    margin: 50px; 
+
+}
