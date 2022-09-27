@@ -1,0 +1,25 @@
+.descripciones { 
+    height: 600;
+    width: 500;
+    background-color: aqua;
+    padding: 50px;
+    border: 4mm ridge rgba(155, 9, 223, 0.685); ;
+}
+
+body {
+    text-align: center;
+    background-image: url(https://wallpaper.dog/large/20441473.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#titulo {
+    color: aqua;
+}
