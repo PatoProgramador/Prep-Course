@@ -1,4 +1,4 @@
-h1 { color :blueviolet}
+h1 { color :rgb(255, 255, 255)}
 img { width: 400px}
 #thirdDiv { 
     height: 600;
@@ -10,5 +10,17 @@ img { width: 400px}
 #spanId {
     font-size: 18;
     margin: 50px; 
+}
 
+body {
+    background-image:url(https://cdn.pocket-lint.com/r/s/1200x630/assets/images/162179-tv-news-feature-rick-and-morty-season-6-release-date-trailer-and-how-to-watch-image1-kbmgzwpsy5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
